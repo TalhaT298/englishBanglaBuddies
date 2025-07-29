@@ -112,7 +112,7 @@ const SSLCommerzPayment: React.FC<SSLCommerzPaymentProps> = ({
       setIsLoading(false);
     }
   };
-
+  // ghg
   return (
     <Button 
       onClick={handlePayment}
